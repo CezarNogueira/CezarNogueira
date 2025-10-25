@@ -2,7 +2,7 @@
 ## Cezar Nogueira
 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-nogueira-010936364/" width="96" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-nogueira-dev/)" width="96" />
 
 ###
 
