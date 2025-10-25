@@ -2,7 +2,9 @@
 ## Cezar Nogueira
 
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png](https://www.linkedin.com/in/cezar-nogueira-dev/)" width="96" />
+<a href="https://www.linkedin.com/in/cezar-nogueira-dev/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="96" alt="LinkedIn" />
+</a>
 
 ###
 
