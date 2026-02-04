@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/256/5968/5968381.png" height="30" alt="typescript logo"  />
   <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="30" alt="Python logo"  />
   <img width="5" />
