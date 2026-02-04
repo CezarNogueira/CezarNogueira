@@ -17,5 +17,5 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-angular-icon-svg-download-png-3029847.png" height="30" alt="angular logo"/>
 </div>
