@@ -18,4 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="5" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-angular-icon-svg-download-png-3029847.png" height="30" alt="angular logo"/>
+  <img width="5" />
+  <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" height="30" alt="java logo"/>
 </div>
